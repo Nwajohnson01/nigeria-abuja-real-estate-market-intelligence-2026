@@ -1,0 +1,6 @@
+market,property_type,segment,median_sale_price_ngn,reported_gross_yield_pct,yoy_price_change_pct,listings,period,data_status,source,notes
+Abuja,Flat/Apartment,All,147500000,,25.7,3250,August 2026,Observed,Nigeria Property Centre,Median asking price across flat/apartment listings
+Abuja,Flat/Apartment,2-bedroom,99000000,7.07,,697,Q3 2026,Observed,Nigeria Property Centre,Median asking price and reported gross rental yield
+Abuja,Flat/Apartment,3-bedroom,150000000,6.67,,1815,Q3 2026,Observed,Nigeria Property Centre,Median asking price and reported gross rental yield
+Abuja,Flat/Apartment,4-bedroom,300000000,6.00,,3465,Q3 2026,Observed,Nigeria Property Centre,Median asking price and reported gross rental yield
+Abuja,House,All,380000000,,,8511,Q3 2026,Observed,Nigeria Property Centre,Median asking price across house listings
