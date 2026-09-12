@@ -1,0 +1,9 @@
+geography,indicator,value,unit,period,data_status,source,notes
+Nigeria,Headline Inflation,15.43,percent,2026,Observed,National Bureau of Statistics,Headline inflation based on the rebased CPI
+Nigeria,Food Inflation,20.31,percent,2026,Observed,National Bureau of Statistics,Food component of the rebased CPI
+Nigeria,Core Inflation,14.97,percent,2026,Observed,National Bureau of Statistics,Core inflation excluding selected volatile items
+Nigeria,Monetary Policy Rate,26.50,percent,July 2026,Observed,Central Bank of Nigeria,Policy rate at the latest period used in this analysis
+Nigeria,Official Exchange Rate,1368.22,NGN/USD,31 July 2026,Observed,Central Bank of Nigeria,NFEM reference rate
+Abuja,Median Property Asking Price,350000000,NGN,Q3 2026,Observed,Nigeria Property Centre,Median asking price across Abuja property listings
+Abuja,Median Time to Sell,119,days,Q3 2026,Observed,Nigeria Property Centre,Median number of days for properties to sell in the source dataset
+Abuja,Median Time to Let,26,days,Q3 2026,Observed,Nigeria Property Centre,Median number of days for properties to let in the source dataset
